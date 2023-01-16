@@ -1,1 +1,2 @@
-# BIG THANKS TO PAK SANDHIKA-GALIH(https://github.com/sandhikagalih)
+# BIG THANKS TO 
+[![sandhikagalih](https://github.com/sandhikagalih.png?size=150)](https://github.com/sandhikagalih)
